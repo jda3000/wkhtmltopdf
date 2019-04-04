@@ -2,7 +2,7 @@
 
 This is a [Heroku buildpack][0] for bundling a compatible [wkhtmltopdf][1] binary with your environment.
 
-`wkhtmltoimage` binary is not included in this buildpack.
+`wkhtmltoimage` binary is included in this buildpack.
 
 ## Versions
 
